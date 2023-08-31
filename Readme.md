@@ -178,7 +178,7 @@ Broadcast: 192.168.255.3
 
 2. Практическая часть
 
-Редактируем Vagrantfile, чтобы он соответствовал поставленной задаче и запускаем ВМ командой vagrant up.
+Редактируем (Vagrantfile)[https://github.com/zoyqqyoz/Otus_Kaneva_dz19/blob/master/Vagrantfile], чтобы он соответствовал поставленной задаче и запускаем ВМ командой vagrant up.
 
 ```
 neva@Uneva:~$ vagrant status
